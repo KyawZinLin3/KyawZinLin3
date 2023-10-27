@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyawZinLin3
-- 👀 I’m interested in full stack developer.
+- 👀 I’m interested in front end developer.
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

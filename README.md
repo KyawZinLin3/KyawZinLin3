@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyawZinLin3
-- 👀 I’m interested in front end developer.
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in full-stack developer.
+- 🌱 I’m currently learning ASP.NET Core MVC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

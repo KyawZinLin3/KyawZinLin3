@@ -1,4 +1,4 @@
-<h2 align="center">Hi There! <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30" height="30"/> I'm Kyaw Zin Lin, Web Developer</h4>  
+<h2 align="center">Hi There!  I'm Kyaw Zin Lin, Web Developer</h4>  
   
 
 <br/>  

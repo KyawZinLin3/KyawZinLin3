@@ -1,4 +1,4 @@
-<h2 align="center">Hi There!  I'm Kyaw Zin Lin, Web Developer</h4>  
+<h2 align="center">Hi There!  I'm Kyaw Zin Lin</h4>  
   
 
 <br/>  

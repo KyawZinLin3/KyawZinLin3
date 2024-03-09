@@ -1,5 +1,5 @@
 <h2 align="center">Hi There!  I'm Kyaw Zin Lin</h4> 
-<h4>Full Stack Software Engineer</h4>
+<h4>Full Stack Software Engineer at KBZ bank</h4>
   
 
 <br/>  

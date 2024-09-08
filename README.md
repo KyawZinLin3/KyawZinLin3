@@ -23,7 +23,6 @@ I'm Kyaw Zin Lin, a full-stack software engineer from Yangon, Myanmar 🇲🇲. 
 
 ### 👨‍💻 What I'm working on:
 - Crafting innovative solutions with DotNet Core
-- Open-source projects and software tools
 - Building full-stack apps, from backend to frontend
 
 ### 🚀 Goals:
@@ -43,4 +42,4 @@ I'm Kyaw Zin Lin, a full-stack software engineer from Yangon, Myanmar 🇲🇲. 
 
 > "Code is like humor. When you have to explain it, it’s bad."
 
-![Kyaw Zin Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Kyaw Zin Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawZinLin3&show_icons=true&theme=radical)

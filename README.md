@@ -40,6 +40,6 @@ I'm Kyaw Zin Lin, a full-stack software engineer from Yangon, Myanmar 🇲🇲. 
   </a>
 </p>
 
-> "Code is like humor. When you have to explain it, it’s bad."
+
 
 ![Kyaw Zin Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawZinLin3&show_icons=true&theme=radical)

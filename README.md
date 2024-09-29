@@ -22,7 +22,6 @@ I'm Kyaw Zin Lin, a full-stack software engineer from Yangon, Myanmar 🇲🇲. 
 </p>
 
 ### 👨‍💻 What I'm working on:
-- Crafting innovative solutions with DotNet Core
 - Building full-stack apps, from backend to frontend
 
 ### 🚀 Goals:

@@ -2,7 +2,7 @@
 
 **`Full Stack Developer | DotNet Core Enthusiast`**
 
-I'm Kyaw Zin Lin, a full-stack software engineer from Yangon, Myanmar 🇲🇲. I specialize in building high-performance, scalable applications using DotNet Core, C#, and modern web technologies. My passion for coding drives me to constantly learn, experiment, and contribute to the developer community.
+I'm Kyaw Zin Lin, a full-stack software engineer from Myanmar 🇲🇲. I specialize in building high-performance, scalable applications using DotNet Core, C#, and modern web technologies. My passion for coding drives me to constantly learn, experiment, and contribute to the developer community.
 
 ### 🛠️ Languages & Tools:
 <p>

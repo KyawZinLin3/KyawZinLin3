@@ -1,4 +1,4 @@
-# Hi, I'm Kyaw Zin Lin 👋🏻
+# Hi, I'm Kyaw Zin Lin 
 
 **`Full Stack Developer | DotNet Core Enthusiast`**
 

@@ -4,6 +4,8 @@
 
 I'm Kyaw Zin Lin, a full-stack software engineer from Myanmar 🇲🇲. I specialize in building high-performance, scalable applications using DotNet Core, C#, and modern web technologies. My passion for coding drives me to constantly learn, experiment, and contribute to the developer community.
 
+I will focus on learn front-end.
+
 ### 🛠️ Languages & Tools:
 <p>
   <img src="https://img.shields.io/badge/DotNet%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNet Core"/>

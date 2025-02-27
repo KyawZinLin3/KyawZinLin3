@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I'm , a passionate software engineer who loves building web applications, mastering system design, and diving deep into problem-solving with algorithms and data structures.
+I'm Kyaw Zin Lin, a passionate software engineer who loves building web applications, mastering system design, and diving deep into problem-solving with algorithms and data structures.
 
 🚀 What I'm Working On
 
@@ -31,10 +31,6 @@ Frameworks: ASP.NET Core, React.js
 Tools: Docker, Neovim, AWS
 
 
-📫 Get in Touch
 
-GitHub: github.com/yourusername
-
-LinkedIn: linkedin.com/in/yourprofile
 
 

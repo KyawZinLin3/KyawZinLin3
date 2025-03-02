@@ -15,8 +15,6 @@ I'm Kyaw Zin Lin, a passionate software engineer who loves building web applicat
 
 📚 What I'm Learning
 
-🖥️ Front-end animations with Framer Motion & GSAP
-
 🔑 Secure authentication with ASP.NET Core Identity & JWT
 
 📜 Improving note-taking & documentation skills

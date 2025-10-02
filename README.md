@@ -20,7 +20,7 @@
 
 ### DevOps & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,github,postgres,azure&theme=light" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,github,postgres,aws&theme=light" height="40"/>
 </p>
 
 ### Others I Use  

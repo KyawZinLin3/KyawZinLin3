@@ -49,4 +49,4 @@
   </a>
 </p>
 
-<p align="center">Building solutions that matter | Rick </p>
+<p align="center">Building solutions that matter | Rick</p>

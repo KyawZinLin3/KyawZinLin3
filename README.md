@@ -42,7 +42,7 @@
    <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="www.linkedin.com/in/kyaw-zin-lin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>

@@ -25,7 +25,6 @@
 ### Others I Use  
 `Clean Architecture` · `Domain-Driven Design` · `REST API`  
 
-
 ## GitHub Stats  
 
 <p align="center">

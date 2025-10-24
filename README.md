@@ -15,7 +15,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs&theme=light" height="40"/>
 </p>
-
 ### DevOps & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=docker,github,postgres,aws&theme=light" height="40"/>

@@ -1,4 +1,4 @@
-# Kyaw Zin Lin (Rick)  
+# Kyaw Zin Lin(Rick)  
 
 ###  @ [H3X-TECH](https://your-h3x-tech-link.com)  
 > I build impactful SaaS products and specialize in developing scalable applications like HRMS.  

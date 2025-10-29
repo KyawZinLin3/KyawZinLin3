@@ -8,7 +8,6 @@
 - Currently building **Gym Management System** & exploring **AI**  
 - Backend-focused, crafting robust and scalable architectures  
 - Always curious to turn challenges into software solutions  
-
 ## Tech Stack  
 ### Languages & Frameworks  
 <p>

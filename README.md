@@ -3,7 +3,6 @@
 ###  @ [H3X-TECH](https://your-h3x-tech-link.com)  
 > I build impactful SaaS products and specialize in developing scalable applications like HRMS.  
 > My mission is to solve real-world problems by turning people's challenges into elegant software solutions.  
-
 ## About Me  
 - Currently building **Gym Management System** & exploring **AI**  
 - Backend-focused, crafting robust and scalable architectures  

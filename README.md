@@ -43,4 +43,5 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
+
 <p align="center">Building solutions that matter | Rick</p>

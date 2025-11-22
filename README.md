@@ -6,6 +6,7 @@
 > My mission is to solve real-world problems by turning people's challenges into elegant software solutions.  
 
 ## About Me  
+
 - Currently building **Gym Management System** & exploring **AI**  
 - Backend-focused, crafting robust and scalable architectures  
 - Always curious to turn challenges into software solutions  

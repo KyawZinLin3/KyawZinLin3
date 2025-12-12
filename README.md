@@ -3,4 +3,4 @@ ain't no privacy
 
 try hard၊ hope well
 
-judge me
+judge me, get out my head

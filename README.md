@@ -1,1 +1,1 @@
-just me n me ‌and doing stream
+just me n me ‌and doing chess stream

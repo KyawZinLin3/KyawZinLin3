@@ -1,1 +1,1 @@
-just me , idk, idk
+just me , idk

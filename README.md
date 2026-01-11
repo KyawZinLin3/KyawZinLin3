@@ -1,2 +1,1 @@
-just me , idk
-isk
+just me 

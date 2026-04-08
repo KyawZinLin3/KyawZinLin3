@@ -82,7 +82,7 @@ I design and build **scalable APIs and business systems**, and I am actively gro
 * Logging, monitoring, observability
 * Cloud storage integration (Cloudflare R2)
 
-> Replace `YOUR_REPO_NAME` with your actual repository name
+<!-- > Replace `YOUR_REPO_NAME` with your actual repository name -->
 
 ---
 

@@ -114,7 +114,7 @@ I design and build **scalable APIs and business systems**, and I am actively gro
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="www.linkedin.com/in/kyaw-zin-lin">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

@@ -129,5 +129,5 @@ I design and build **scalable APIs and business systems**, and I am actively gro
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-  Building scalable systems • Growing into full stack • Focused on real-world impact
+  Building scalable systems • Growing into full stack 
 </p>

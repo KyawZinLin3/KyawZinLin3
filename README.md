@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a software developer with **2+ years of experience**, currently focused on backend development using **ASP.NET Core**.
+I am a software developer with **3+ years of experience**, currently focused on backend development using **ASP.NET Core**.
 
 I design and build **scalable APIs and business systems**, and I am actively growing into a **full stack developer**.
 

@@ -25,7 +25,6 @@ I design and build **scalable APIs and business systems**, and I am actively gro
 * Experience with real-world systems (HRMS, APIs, business logic)
 * Strong understanding of **Clean Architecture**
 * Focused on **production-ready backend systems**
-* Currently learning **React** to expand into full stack roles
 
 ---
 

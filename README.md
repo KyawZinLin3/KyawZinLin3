@@ -109,7 +109,7 @@ I design and build **scalable APIs and business systems**, and I am actively gro
 
 <p align="center">
 
-<a href="#">
+<a href="kyawzinlin.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

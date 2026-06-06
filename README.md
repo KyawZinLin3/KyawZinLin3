@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">Kyaw Zin Lin (Rick)</h1>
+<h1 align="center">Kyaw Zin Lin </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

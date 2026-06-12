@@ -128,5 +128,5 @@ I design and build **scalable APIs and business systems**, and I am actively gro
 <!-- ======================= FOOTER ======================= -->
 
 <p align="center">
-   Growing into full stack and AI development 
+   Growing into AI development 
 </p>
